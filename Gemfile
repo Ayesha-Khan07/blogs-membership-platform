@@ -41,7 +41,7 @@ gem "thruster", require: false
 # gem "image_processing", "~> 1.2"
 
 #CUSTOM GEMS
-gem 'friendly_id', '~> 5.6'
+gem 'friendly_id', '~> 5.7'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
